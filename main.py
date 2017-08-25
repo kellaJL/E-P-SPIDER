@@ -5,7 +5,7 @@ downloader_ware
 """
 import ProxyPool
 import SpiderSchedule
-from downloader_ware import downloaderware
+from DownloadWare import downloaderware
 from Spider import Spider
 import threading
 import time
